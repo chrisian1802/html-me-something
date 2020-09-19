@@ -1,0 +1,32 @@
+body {
+    background-color: crimson;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border: 5px solid white;
+    width: 30%;
+    height: auto;
+    padding: 20px;
+}
+
+p {
+    color: white;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+#article1 {
+    color: white;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.header {
+    color: white;
+}
+.tiny {
+    font-size: 10px;
+    color: maroon;
+}
